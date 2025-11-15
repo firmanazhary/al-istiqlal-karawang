@@ -1,1 +1,0 @@
-var arr = [{name: "Firman", age: 25}, {name: {first: "John", last: "Doe"}, age: 27}];
